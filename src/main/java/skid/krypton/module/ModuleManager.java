@@ -51,6 +51,7 @@ public final class ModuleManager {
         this.a(new NameProtect());
         this.a(new AutoTPA());
         this.a(new RtpBaseFinder());
+        this.a(new SusChunkFinder());
         this.a(new TunnelBaseFinder());
         this.a(new NetheriteFinder());
         this.a(new BoneDropper());
